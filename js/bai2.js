@@ -1,5 +1,5 @@
 let input = [3, 6, 5, 4, 5, 7, 8];
-let x = 5;
+let x = 9;
 
 function tryRemoveFromArray(arr, number) {
     let returnedArray = [];
